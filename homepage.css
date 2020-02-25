@@ -1,0 +1,100 @@
+#header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: url(images/headertalley-01.png);
+    background-size: 1100px;
+    
+}
+h1,h2 {
+    color: white;
+    text-align: center
+}
+
+
+
+h1,h2,h3,h4,h5,p {
+    line-height: 30px;
+    font-family: "futura", sans-serif
+        
+}
+h1 {
+    text-align: left; 
+    margin-left: 15%;
+    font-size:1000%
+    
+}
+h2{
+     text-align: left; 
+    margin-left: 15%;
+    font-size:40px;
+    margin-right: 200px;
+
+}
+h3{
+    font-size:40px;
+}
+a:link {
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #D7DF23;
+}
+
+a,h3 {
+  color: #ED1C24;
+}
+
+
+h5{
+    line-height: 35px;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-left:20px;
+    color:#ED1C24;
+    margin-right: 20%;
+
+}
+body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+    
+    background-color: ;
+    color:#ED1C24;
+    font-family: "futura", sans-serif  
+
+}
+#navblock{
+    background-color: #ED1C24;
+    padding-top: 10px; 
+}
+li {
+    display: inline;
+    margin-left: 50px;
+    margin-right:50px;
+
+}
+
+#main {
+    float:right;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+
+
+img {
+float: left;
+padding-right: 5%;
+padding-bottom: 5%;
+padding-top: 5%;
+
